@@ -1,4 +1,4 @@
-# SPRING BOOT E-COMMERCE BACKEND
+# SPRING BOOT E-COMMERCE BACKEND CRUD Application
 
 RESTful Backend Application using Java 21, Spring Boot, Spring MVC, Spring Data JPA and H2 Database
 
