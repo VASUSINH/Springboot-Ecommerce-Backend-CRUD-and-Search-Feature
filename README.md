@@ -6,7 +6,7 @@ RESTful Backend Application using Java 21, Spring Boot, Spring MVC, Spring Data 
 
 ## PROJECT OVERVIEW :-
 
-This E-Commerce Backendcis a RESTful web application developed using Java 21 and Spring Boot. The project is designed to manage product-related operations through well-structured REST APIs and demonstrates modern backend development practices.
+This E-Commerce Backend is a RESTful web application developed using Java 21 and Spring Boot. The project is designed to manage product-related operations through well-structured REST APIs and demonstrates modern backend development practices.
 
 The application supports product management functionalities such as creating products, retrieving product information, updating product details, deleting products and searching products using keywords.
 
